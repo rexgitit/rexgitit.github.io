@@ -1,7 +1,10 @@
-title: rexgitit_cover # name of the site
+locale : "en-US"
+title: "rexgitit_cover" # name of the site
+title_separator : "-"
 author: rex choi # name of site's author
 email: rexist@knou.ac.kr # email of site's author
 url: https://rexgitit.github.io # root address of the site
+baseurl: ""
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
