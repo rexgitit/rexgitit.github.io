@@ -6,7 +6,7 @@ entries:
     url: false
     entries:
       - title: rex choi
-        url: mailto:rexist@gmail.com
+      url: false
       - title: portfolio
         url: https://rexgitit.github.io
       
