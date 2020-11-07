@@ -16,6 +16,9 @@ entries:
     post_list: true
     url: false
     entries: false
+    
+    - title: theme
+    url: theme
 
   # - title: rss
   #  url: feed.xml
