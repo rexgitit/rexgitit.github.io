@@ -9,8 +9,7 @@ entries:
         url: mailto:rexist@gmail.com
       - title: portfolio
         url: https://rexgitit.github.io
-      - title: linkedin
-        url: https://
+      
 
   - title: works
     post_list: true
@@ -18,7 +17,7 @@ entries:
     entries: false
     
     - title: theme
-    url: theme
+      url: theme
 
   # - title: rss
   #  url: feed.xml
@@ -33,6 +32,7 @@ entries:
 #            url: false
 #          - title: example page
 #            url: about
+
 #  - title: PRO TIP
 #    url: false
 #    entries:
