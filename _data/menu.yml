@@ -2,15 +2,15 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: theme info
+  - title: info
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-        url: false
-      - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: used by riggraz.dev
-        url: https://riggraz.dev/
+      - title: rex choi
+        url: mailto:rexist@gmail.com
+      - title: portfolio
+        url: https://rexgitit.github.io
+      - title: linkedin
+        url: https://
 
   - title: works
     post_list: true
