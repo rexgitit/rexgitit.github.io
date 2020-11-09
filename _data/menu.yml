@@ -14,14 +14,3 @@ entries:
     post_list: true
     url: false
     entries: false  
-  
-  - title: another list
-    url: false
-    entries:
-      - title: with subitems
-        url: false
-        entries:
-          - title: with subsubitems
-            url: false
-          - title: example page
-            url: about
