@@ -3,7 +3,7 @@
 
 entries:
   - title: about
-    url: false
+    url: about
     
   - title: works
     post_list: true
