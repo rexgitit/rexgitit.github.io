@@ -3,7 +3,7 @@ layout: post
 title: about me
 ---
 
-
+![theme logo](https://rexgitit.github.io/assets/img/cancer.svg){:.ioda}
 
 15 years as a designer.
 He has experience in designing web, apps, and kiosks, mainly developing UI launcher design for Android-type products, and also has experience in planning proposal documents, designing and developing government content proposals, and winning proposal projects.
