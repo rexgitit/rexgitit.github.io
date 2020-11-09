@@ -1,7 +1,7 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-- title :rex git it
+- title: rex git it
 url: https://rexgitit.github.io
 entries:
   - title: about
