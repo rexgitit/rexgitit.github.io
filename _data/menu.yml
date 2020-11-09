@@ -2,9 +2,9 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 - title: rex git it
-url: https://rexgitit.github.io
+url: "https://rexgitit.github.io"
 entries:
-  - title: about
+- title: about
     url: about
     
   - title: works
@@ -12,26 +12,5 @@ entries:
     url: false
     entries: false
     
-    - title: sample
-    url: false
-    
-
-# - title: rss
-#  url: feed.xml
-  
-#  - title: another list
-#    url: false
-#    entries:
-#      - title: with subitems
-#        url: false
-#        entries:
-#          - title: with subsubitems
-#            url: false
-#          - title: example page
-#            url: about
-
-#  - title: PRO TIP
-#    url: false
-#    entries:
-#      - title: to edit this menu, edit _data/menu.yml file
-#        url: false
+    - title: contact me
+    url: "mailto:rexist@gmail.com"
