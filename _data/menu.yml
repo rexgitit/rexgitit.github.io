@@ -5,20 +5,15 @@ entries:
   - title: info
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: rex choi
         url: false
-      - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: used by riggraz.dev
-        url: https://riggraz.dev/
+      - title: mail
+        url: rexist@gmail.com      
 
-  - title: thoughts
+  - title: works
     post_list: true
     url: false
-    entries: false
-
-  - title: rss
-    url: feed.xml
+    entries: false  
   
   - title: another list
     url: false
@@ -30,8 +25,3 @@ entries:
             url: false
           - title: example page
             url: about
-  - title: PRO TIP
-    url: false
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
-        url: false
