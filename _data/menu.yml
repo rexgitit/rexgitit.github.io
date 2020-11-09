@@ -1,16 +1,16 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
- - title: rex git it
-   url: "https://rexgitit.github.io"
+ - title: "rex git it"
+   url: https://rexgitit.github.io
    entries: false
-   - title: about
+   - title: "about"
      url: about
     
-  - title: works
+  - title: "works"
     post_list: true
     url: false
     entries: false
     
-  - title: contact me
+  - title: "contact me"
      url: "mailto:rexist@gmail.com"
