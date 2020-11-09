@@ -8,7 +8,7 @@ entries:
       - title: rex choi
         url: false
       - title: mail
-        url: rexist@gmail.com
+        url: mailto:rexist@gmail.com
 
   - title: works
     post_list: true
