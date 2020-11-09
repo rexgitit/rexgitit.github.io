@@ -7,8 +7,8 @@ entries:
     entries:
       - title: rex choi
       url: false
-      - title: portfolio
-        url: https://rexgitit.github.io
+      - title: Hello world!
+        url: false
       
 
   - title: works
@@ -16,8 +16,8 @@ entries:
     url: false
     entries: false
     
-  - title: theme
-    url: theme
+  - title: theme by https://github.com/riggraz/no-style-please
+    url: false
 
   # - title: rss
   #  url: feed.xml
