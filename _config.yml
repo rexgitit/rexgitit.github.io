@@ -2,12 +2,17 @@ locale : "ko-KR"
 title: "rexgitit_cover" # name of the site
 title_separator : "-"
 author: rex # name of site's author
+encoding: "utf-8"
 email: rexist@gmail.com # email of site's author
 url: https://rexgitit.github.io # root address of the site
 baseurl: ""
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme custom ver.
-  
+
+## => Language and Timezone
+##############################
+lang: ko
+timezone: Asia/Seoul
 
 permalink: /:slug.html
 
