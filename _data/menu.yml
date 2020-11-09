@@ -5,11 +5,8 @@ entries:
   - title: info
     url: false
     entries:
-      - title: rex choi
+      - title: sample1
       url: false
-      - title: Hello world!
-        url: false
-      
 
   - title: works
     post_list: true
