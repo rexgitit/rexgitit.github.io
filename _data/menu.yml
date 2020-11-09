@@ -9,6 +9,8 @@ entries:
         url: mailto:rexist@gmail.com
       - title: about me
         url: about
+      - title: contact me
+        url: contact
 
   - title: works
     post_list: true
